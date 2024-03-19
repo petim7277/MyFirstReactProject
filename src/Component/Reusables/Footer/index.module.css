@@ -1,0 +1,45 @@
+.mainContent{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #263238;
+    width: 100%;
+}
+
+.semiContent .icon{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.socialIcons {
+    display: flex;
+    gap: 1rem;
+}
+
+.companyDiv{
+    color: white;
+}
+.supportDiv{
+    color: white;
+}
+.stayUpDiv{
+    color: #FFFFFF;
+}
+.input {
+    width: 255px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    border-color: #263238;
+    opacity: 20%;
+    color: #FFFFFF;
+}
+.stayUpDiv >input {
+    color: #FFFFFF;
+}
+
+.vectorIcon{
+    padding-right: 4rem;
+    display: flex;
+    padding-left: 14rem;
+
+}
+

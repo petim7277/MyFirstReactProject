@@ -1,0 +1,18 @@
+.mainContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.linkContent, .buttons {
+    display: flex;
+    flex-direction : row;
+    gap : 3rem;
+}
+.icon{
+    padding-top: 1rem;
+}
+
+.buttons{
+    padding-top: 1rem;
+}

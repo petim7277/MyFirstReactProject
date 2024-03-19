@@ -1,0 +1,15 @@
+.parentDiv{
+    justify-content: center;
+}
+
+.childDiv{
+    text-align: center;
+    padding-bottom: 2rem;
+    opacity: 70%;
+
+}
+.siblingDiv{
+    display: flex;
+    gap: 8rem;
+    margin-left: 5rem;
+}

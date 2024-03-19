@@ -1,0 +1,20 @@
+.heroDiv{
+    display: flex;
+    margin-top: 4rem;
+    margin-left: 5rem;
+    gap: 8rem;
+    background-color:#F5F7FA;
+;
+}
+.heroButton{
+    padding-top: 1rem;
+}
+.heroEllipsis{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.heroText{
+    font-size: 1.3rem;
+
+}
