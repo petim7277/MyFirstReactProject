@@ -22,6 +22,7 @@ const HelpingLocalBusinesses = ()=>{
                     <p><span style={{fontSize:"25px",fontWeight:"bolder"}}>2,245,341</span><span
                         style={{display:"block",fontSize:"3px"}}></span>Members</p>
 
+
                      </div>
                     <div/>
 
@@ -32,4 +33,5 @@ const HelpingLocalBusinesses = ()=>{
                 </div>
             )
 }
+
 export default HelpingLocalBusinesses

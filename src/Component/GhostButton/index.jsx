@@ -9,4 +9,5 @@ const GhostButton = ({textColor,backgroundColor,text})=>{
         </div>
     )
 }
+
 export default GhostButton

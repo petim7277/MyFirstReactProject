@@ -17,6 +17,7 @@ const NavBar = ()=>{
                 <p>Product</p>
                 <p>Testimonial</p>
                 <p>FAQ</p>
+
         </div>
 
         <div className={styles.buttons}>
@@ -25,6 +26,7 @@ const NavBar = ()=>{
         </div>
 
     </div>
+
 
 
     )

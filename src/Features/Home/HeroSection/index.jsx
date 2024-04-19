@@ -31,5 +31,6 @@ const HeroSection = ()=>{
                     //     <img src={ellipsis3} alt={"An ellipsis"}/>
                     // </div>
             )
+
 }
 export default HeroSection;

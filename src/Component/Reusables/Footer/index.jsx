@@ -13,6 +13,8 @@ const Footer = ()=>{
                 <div className={styles.mainContent}>
                     <div className={styles.semiContent}>
 
+
+
                     <div className={styles.icon}>
                                     <img src={nexCentLogo} alt={"The NexCentLogo"}/>
                                     <footer style={{paddingTop :"1.5rem",color:"white"}}>Copyright © 2020 Nexcent ltd.
@@ -44,6 +46,7 @@ const Footer = ()=>{
                                     <p>Privacy policy</p>
                                     <p>Status</p>
                                 </div>
+
 
                     <div className={styles.stayUpDiv}>
                                     <h3>Stay up to date</h3>

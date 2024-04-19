@@ -5,7 +5,7 @@ import Authentication from "../Features/Authentication";
 export const Routes = [
     {
         path: "/",
-        // element: <Layout/>,
+        element: <Layout/>,
         children: [
             {
                 path: "",
@@ -14,10 +14,11 @@ export const Routes = [
 
             {
                 path: "",
-                element:<Authentication/>
+                // element:<Authentication/>
             }
 
         ]
+
     },
 
 ]

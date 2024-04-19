@@ -7,6 +7,8 @@ const PageButton = ({textColor,backgroundColor,text})=>{
               {text}
           </button>
       </div>
+
     )
 }
  export default PageButton
+
