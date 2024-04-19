@@ -1,0 +1,13 @@
+.mainDiv{
+    display: flex;
+    background-color: #F5F7FA;
+    gap: 10rem;
+}
+
+.semiDiv{
+    margin-left: 8rem;
+}
+.firstDiv{
+    display: flex;
+    gap: 10px;
+}

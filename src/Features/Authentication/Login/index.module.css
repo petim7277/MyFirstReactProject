@@ -1,0 +1,46 @@
+.mainDiv{
+    display: flex;
+    flex-direction: row;
+
+}
+.iconDiv{
+    height: 40rem;
+    width: 40rem;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10rem;
+
+}
+.inputFields{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 10px;
+    border-color: #55229E;
+    margin-top: 1.5rem;
+
+}
+.buttons{
+    height: 2.5rem;
+    width: 16rem;
+    color: #FFFFFF;
+    background-color: #55229E;
+    border-radius: 10px;
+}
+.signText{
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.iLogo{
+    width: 0.5rem;
+    height: 0.9rem;
+}
+
